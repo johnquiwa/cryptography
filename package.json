@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pbkdf2": "^3.0.16"
+    "ethereumjs-util": "^5.2.0",
+    "pbkdf2": "^3.0.16",
+    "web3": "^1.0.0-beta.34"
   }
 }
