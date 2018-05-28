@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6619add-d442-4c12-ab48-282cb91e4052" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/creatingPublicKey.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bn.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bn.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/elliptic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/elliptic/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/.covignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-sha3/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-sha3/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-sha3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-sha3/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-sha3/src/sha3.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-sha3/src/sha3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creatingEthAddress.js" beforeDir="false" afterPath="$PROJECT_DIR$/creatingEthAddress.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="creatingPublicKey.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/creatingPublicKey.js">
+      <file leaf-file-name="creatingEthAddress.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/creatingEthAddress.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="266">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -58,6 +44,7 @@
       <list>
         <option value="$PROJECT_DIR$/ecc.js" />
         <option value="$PROJECT_DIR$/creatingPublicKey.js" />
+        <option value="$PROJECT_DIR$/creatingEthAddress.js" />
       </list>
     </option>
   </component>
@@ -181,10 +168,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creatingPublicKey.js">
+    <entry file="file://$PROJECT_DIR$/creatingEthAddress.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="266">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
